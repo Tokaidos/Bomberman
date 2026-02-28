@@ -1,0 +1,48 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Blank Pixel Game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.3.217",
+  },
+  "name":"Blank Pixel Game",
+  "resources":[
+    {"id":{"name":"oBomberman","path":"objects/oBomberman/oBomberman.yy",},},
+    {"id":{"name":"oCWall","path":"objects/oCWall/oCWall.yy",},},
+    {"id":{"name":"oCWallh","path":"objects/oCWallh/oCWallh.yy",},},
+    {"id":{"name":"oSoild","path":"objects/oSoild/oSoild.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBarrier","path":"sprites/sBarrier/sBarrier.yy",},},
+    {"id":{"name":"sBomberman","path":"sprites/sBomberman/sBomberman.yy",},},
+    {"id":{"name":"sBombermandown","path":"sprites/sBombermandown/sBombermandown.yy",},},
+    {"id":{"name":"sBombermanleft","path":"sprites/sBombermanleft/sBombermanleft.yy",},},
+    {"id":{"name":"sBombermanright","path":"sprites/sBombermanright/sBombermanright.yy",},},
+    {"id":{"name":"sBombermanup","path":"sprites/sBombermanup/sBombermanup.yy",},},
+    {"id":{"name":"sCavetitle","path":"sprites/sCavetitle/sCavetitle.yy",},},
+    {"id":{"name":"sCWall","path":"sprites/sCWall/sCWall.yy",},},
+    {"id":{"name":"sCwallh","path":"sprites/sCwallh/sCwallh.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
